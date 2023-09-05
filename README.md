@@ -6,14 +6,15 @@
  [Fontes consultadas](#fontes-consultadas)  
  [Autores](#autores)  
 
-# Projeto - Portfólio para escrita do readme
+# 🚀 Projeto - Portfólio para escrita do readme
+ ![img](img/capa.png)
+ 
+ ## 📋 Descrição
 
- ## Descrição
+ ## 🔧 Funcionalidades
 
- ## Funcionalidades
+ ### 🛠️ Tecnologias utilizadas
 
- ### Tecnologias utilizadas
+ ## 📄 Fontes consultadas
 
- ## Fontes consultadas
-
- ## Autores
+ ## ✒️ Autores

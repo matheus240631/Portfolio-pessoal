@@ -1,11 +1,11 @@
-# projeto - portfólio para escrita do readme
+# Projeto - Portfólio para escrita do readme
 
- ## descrição
+ ## Descrição
 
- ## funcionalidades
+ ## Funcionalidades
 
- ### tecnologias utilizadas
+ ### Tecnologias utilizadas
 
- ## fontes consultadas
+ ## Fontes consultadas
 
- ## autores
+ ## Autores

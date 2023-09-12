@@ -10,7 +10,7 @@
 ![img](img/capa.png)
  
  ## 📋 Descrição
-projeto github use com faz para coluca no github por no Vcode para coluca para github 
+projeto para github use com faz para coluca no github por no Vcode para coluca para github 
 depois fico use coluca  img no github mais outro etc
  ## 🔧 Funcionalidades
 Vcode use coluca code para github use fisona para github   

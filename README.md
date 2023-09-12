@@ -10,7 +10,8 @@
 ![img](img/capa.png)
  
  ## 📋 Descrição
-
+projeto Documentação READE github use com faz para coluca no github por no Vcode para coluca para github 
+depois fico use coluca  img no github mais outro etc
  ## 🔧 Funcionalidades
 
  ### 🛠️ Tecnologias utilizadas

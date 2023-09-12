@@ -14,10 +14,10 @@
  ## 🔧 Funcionalidades
 
  ### 🛠️ Tecnologias utilizadas
--github 
- -html 
- -css 
- -Vcode 
+-github  
+ -html  
+ -css  
+ -Vcode   
  
  ## 📄 Fontes consultadas
 

@@ -22,7 +22,7 @@ codita no Vcode para coluca no github ou detro do github site
  -Vcode   
  
  ## 📄 Fontes consultadas
-fazer do Vcode e github primero Vcode use faz code detro mais etc no github 
-para Vcode colula codita  depois para github
+* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível
+
  ## ✒️ Autores
 ![img](img/Leo.png)

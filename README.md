@@ -22,7 +22,7 @@ codita no Vcode para coluca no github ou detro do github site
  -Vcode   
  
  ## 📄 Fontes consultadas
-* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível
+* [lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - escrever um README incrível
 
  ## ✒️ Autores
 ![img](img/Leo.png)

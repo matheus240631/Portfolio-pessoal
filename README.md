@@ -14,7 +14,11 @@
  ## 🔧 Funcionalidades
 
  ### 🛠️ Tecnologias utilizadas
-
+-github
+ -html
+ -css
+ -Vcode
+ 
  ## 📄 Fontes consultadas
 
  ## ✒️ Autores

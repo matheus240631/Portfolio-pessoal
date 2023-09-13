@@ -13,8 +13,8 @@
 projeto para github use com faz para coluca no github por no Vcode para coluca para github 
 depois fico use coluca  img no github mais outro etc
  ## 🔧 Funcionalidades
-Vcode use coluca code para github use fisona para github   
-codita no Vcode para coluca no github ou detro do github site
+aberta Vcode depois pocula ums ite copia code use colar no Vcode faz os depois codita no Vcode para github criar arquivos
+muito coisa para faz github aberta copia no arqivos no mauso esquedo do batao mostar mais opções
  ### 🛠️ Tecnologias utilizadas
 -github  
  -html  

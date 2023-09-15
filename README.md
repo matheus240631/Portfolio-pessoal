@@ -21,7 +21,7 @@ muito coisa para faz github aberta copia no arqivos no mauso esquedo do batao mo
  -css  
  -Vcode   
  -png
- -javascript  
+ -javascript    
  
  ## 📄 Fontes consultadas
 * [alura](https://www.alura.com.br/artigos/escrever-bom-readme) - como escrever um README incrível

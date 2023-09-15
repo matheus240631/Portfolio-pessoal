@@ -26,7 +26,7 @@ muito coisa para faz github aberta copia no arqivos no mauso esquedo do batao mo
  - github  
  - html  
  - css  
- - Vcode  
+ - VScode  
  - png  
  - javascript    
 

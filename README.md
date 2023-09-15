@@ -19,7 +19,7 @@
 projeto de Portfólio para documentação no github utilizando o README. Todo projeto está sendo desenvolvido utilizando o VSCode no Computador e utilizando sistema de controle de versão, o Git, para armazenar o projeto no Github.
 
  ## 🔧 funcionalidades
-aberta Vcode depois pocula ums ite copia code use colar no Vcode faz os depois codita no Vcode para github criar arquivos
+aberta VScode depois pocula ums ite copia code use colar no Vcode faz os depois codita no Vcode para github criar arquivos
 muito coisa para faz github aberta copia no arqivos no mauso esquedo do batao mostar mais opções
 
  ### 🛠️ tecnologias utilizadas

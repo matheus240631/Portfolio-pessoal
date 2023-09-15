@@ -13,7 +13,7 @@
  [Autores](#autores)
 
  # 🚀 projeto - portfólio para escrita do readme
- ![img](img/capa.png)
+![img](img/capa.png)
 
  ## 📋 descrição
 projeto de Portfólio para documentação no github utilizando o README. Todo projeto está sendo desenvolvido utilizando o VSCode no Computador e utilizando sistema de controle de versão, o Git, para armazenar o projeto no Github.
